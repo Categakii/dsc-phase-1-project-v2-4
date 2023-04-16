@@ -160,12 +160,15 @@ genres: the genre(s) of the movie (e.g. Drama, Action, Comedy)
 
 The Scatter plot showing positive correlation between high volume of movies and domestic revenue
 gross_movie_corre
+![gross_movie_corre](https://user-images.githubusercontent.com/127992604/232314617-17b6d373-5a6c-4497-8813-a88801815c73.png)
 
 10 top studios with highest domestic revenue
 gross_movie top 10
+![gross_movie_top_10](https://user-images.githubusercontent.com/127992604/232314649-7f9f4cbb-c1ee-45c2-a075-d5879a96e218.png)
 
 10 top genres with highest rating
 basic_rating_top 10
+![basic_rating_top_10](https://user-images.githubusercontent.com/127992604/232314657-4d188a64-ba20-446e-8a6d-4d601211a9f7.png)
 
 9. Conclusion
 
@@ -181,5 +184,4 @@ Microsoft comapany may want to consider partnering with one of the top studios o
 
 Microsoft can focus on producing a larger quantity of movies in order to increase the chances of generating higher gross revenue.
 
->>>>>>> 70c4b9a2389d5cb0fc6ac6a09ee17c3d56b3e693
 Microsoft should consider genres as an important factor to consider when producing movies, as it can have a significant impact on the viewer's perception of the movie.
