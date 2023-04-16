@@ -3,6 +3,7 @@
 This is phase one project where i was exploring the data to generate insight to business stakeholder (Microsoft)
 3. Business Understanding
 **Research problem **
+
 Microsoft sees all the big companies creating original video content and they want to get in on the fun. They have decided to create a new movie studio, but they don’t know anything about creating movies. To solve the problem they need to understand which studios are producing the most successfull movies and explore which genres are performing best at the box office.
 
 4. Include stakeholder and key business questions
@@ -15,12 +16,16 @@ To explore which genres are performing best at the box office.
 
 Use of the gross_movie dataset and determine the correlation of the total number of movies produced and the gross_domestic revenue for the top 10 companies
 Merge the rating and basic dataset and explore the correlation between the genres and average rating.
+
+
 6. Source of data
 Source of data
 The following are the data used to perform the task
 
 im.db.zip table :movie_basics and movie_ratings
 bom.movie_gross.csv.gz
+
+
 7. Description of data
 /content/bom.movie_gross.csv.gz variables
 **title: **the title of the movie
