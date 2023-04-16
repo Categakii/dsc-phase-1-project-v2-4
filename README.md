@@ -1,13 +1,18 @@
 **1. Overview
 
 This is phase one project where i was exploring the data to generate insight to business stakeholder (Microsoft)
-3. Business Understanding
+
+2. Business Understanding
+
 **Research problem **
+
 Microsoft sees all the big companies creating original video content and they want to get in on the fun. They have decided to create a new movie studio, but they don’t know anything about creating movies. To solve the problem they need to understand which studios are producing the most successfull movies and explore which genres are performing best at the box office.
 
 4. Include stakeholder and key business questions
 The business stakeholder will be Microsoft
+
 Research Questions
+
 To understand which studios are producing the most successfull movies
 To explore which genres are performing best at the box office.
 
@@ -21,7 +26,9 @@ The following are the data used to perform the task
 
 im.db.zip table :movie_basics and movie_ratings
 bom.movie_gross.csv.gz
+
 7. Description of data
+
 /content/bom.movie_gross.csv.gz variables
 **title: **the title of the movie
 
@@ -62,6 +69,8 @@ end_year: the year the movie stopped running (if a TV series)
 runtime_minutes: the runtime of the movie in minutes
 
 genres: the genre(s) of the movie (e.g. Drama, Action, Comedy)
+
+
 8. Three visualizations (the same visualizations presented in the slides and notebook)
 
 The Scatter plot showing positive correlation between high volume of movies and domestic revenue
@@ -156,6 +165,7 @@ end_year: the year the movie stopped running (if a TV series)
 runtime_minutes: the runtime of the movie in minutes
 
 genres: the genre(s) of the movie (e.g. Drama, Action, Comedy)
+
 8. Three visualizations (the same visualizations presented in the slides and notebook)
 
 The Scatter plot showing positive correlation between high volume of movies and domestic revenue
